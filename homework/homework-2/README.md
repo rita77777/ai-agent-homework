@@ -18,7 +18,16 @@
 - Parameter：`expression`
 - Type：string
 
-例如：
+## 測試結果
+
+測試算式：
 
 ```text
 10 + 5 * 2
+```
+
+AI 成功呼叫 `calculate` 工具，計算結果為 `20`。
+
+### 執行截圖
+
+![Calculator Tool Test](./images/calculator-test.png)
